@@ -1,0 +1,6 @@
+package com.example.cryp_rage
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

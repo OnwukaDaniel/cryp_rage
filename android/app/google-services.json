@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473010112463",
+    "project_id": "cryp-trage",
+    "storage_bucket": "cryp-trage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473010112463:android:d598148c663d7c4f50b4ba",
+        "android_client_info": {
+          "package_name": "com.example.cryp_rage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmrSSHttf6zox9i2ECMXfnBNkyb4SPrI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
